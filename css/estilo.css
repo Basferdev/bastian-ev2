@@ -263,6 +263,11 @@ h1,h2,h3,h4,h5{
 	right: 5px;
 }
 
+.tamaño-img {
+	display: flex;
+	height: 1020px;
+	width: 100%;
+}
 /*----------------Estilos Responsivos------------------*/
 
 @media screen and (min-width:480px){
@@ -397,6 +402,8 @@ h1,h2,h3,h4,h5{
 	
 	}
 }
+
+
 
 
 
