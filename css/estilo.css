@@ -284,18 +284,13 @@ h1,h2,h3,h4,h5{
     align-items: center; /*lo deja horizontal */
     justify-content: center;
 }
-.jacquard-24-regular {
-  font-family: "Jacquard 24", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.lugrasimo-regular {
-	font-family: "Lugrasimo", cursive;
+.indie-flower-regular {
+	font-family: "Indie Flower", cursive;
 	font-weight: 400;
 	font-style: normal;
   }
   
+
 /*----------------Estilos Responsivos------------------*/
 
 @media screen and (min-width:480px){
